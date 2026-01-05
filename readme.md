@@ -50,6 +50,9 @@
 
 - 💼 GitHub: [github.com/AnsarAli](https://github.com/AnsarAli)
 - 📧 Email: *ansarali3339@gmail.com*
+- 📸 Instagram: https://instagram.com/ansarali3339
+- 👻 Snapchat: ansarali3339
+- 💼 LinkedIn: https://www.linkedin.com/in/ansar-ali-7911a1323 
 
 ---
 
