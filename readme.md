@@ -38,17 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ansar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnsarAli&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnsarAli&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🎮 Interests & Hobbies
 
 - 💻 Coding & Learning New Technologies  
