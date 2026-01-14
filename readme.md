@@ -29,7 +29,7 @@
 - VS Code
 
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - ✅ Build strong problem-solving skills
 - 📊 Complete beginner-friendly Full Stack projects
