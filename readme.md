@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BCA 1st Year student at **Management Education and Research Institute (MERI)**
+- 🎓 BCA 2st Year student at **Management Education and Research Institute (MERI)**
 - 📈 Passionate about **Web Dev, Programming, and Problem Solving**
 - 🧠 Curious learner 
 - 🌱 Currently building a strong foundation in FULL STACK
