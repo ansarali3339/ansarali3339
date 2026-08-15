@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Ansar Ali**
-### 💻 BCA Student | 📊 Aspiring Web Developer | 🌱 Lifelong Learner
+### 💻 BCA Student | 📊 Aspiring Data Scientist | 🌱 Lifelong Learner
 
 📍 Delhi, India  
 
@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 
-- 🎓 BCA 2nd Year student at **Management Education and Research Institute (MERI)**
-- 📈 Passionate about **Web Dev, Programming, and Problem Solving**
+- 🎓 BCA 3nd Year student at **Management Education and Research Institute (MERI)**
+- 📈 Passionate about **data cleaning, Programming, and Problem Solving**
 - 🧠 Curious learner 
-- 🌱 Currently building a strong foundation in FULL STACK
+- 🌱 Currently building a strong foundation in DATA SCIENCE
 
 ---
 
@@ -22,8 +22,7 @@
 
 ### 💡 Programming & Tools
 - Python 🐍
-- HTML
-- Javascript
+- Python Libaries
 - SQL (Basics)
 - Git & GitHub
 - VS Code
@@ -32,8 +31,8 @@
 ## 🎯 Goals for 2026
 
 - ✅ Build strong problem-solving skills
-- 📊 Complete beginner-friendly Full Stack projects
-- 💼 Prepare for internships in Web Dev
+- 📊 Complete beginner-friendly Full Data Science projects
+- 💼 Prepare for internships in Data Science/Analytics
 - 🌐 Create a solid GitHub project portfolio
 
 ---
